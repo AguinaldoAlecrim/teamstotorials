@@ -12,9 +12,17 @@ html {
     min-width: 334px; 
     min-height: 600px;    
 }
+.title-custom {
+    color:#FFFFFF;
+    font-weight: bold;
+    border-radius: 5px;
+    border-width: 3px;
+    border-style:  solid;
+    border-color: #8080B3;
+}
 .dKaMJWba {
     background-color: #8080b397;
-    padding: 2px 3px;
+    padding: 2px 0.8em !important;
     text-indent: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
@@ -25,7 +33,7 @@ html {
 
 .wzE2MkgS {
     background-color: #8080b3;
-    padding: 2px 3px;
+    padding: 2px 0.8em !important;
     text-indent: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
