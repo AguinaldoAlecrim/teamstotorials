@@ -1,7 +1,7 @@
 body {
     background-color: #343477; 
     padding-top: var(--navbar-height);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 html {
     scroll-behavior: smooth;
